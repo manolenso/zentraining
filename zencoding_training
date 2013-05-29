@@ -1,0 +1,63 @@
+
+<------------------code-------------->
+div#page>div.logo+ul#navigation>li*5>a
+
+<div id="page">
+    <div class="logo"></div>
+    <ul id="navigation">
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+    </ul>
+  </div>
+<------------------code-------------->
+html:5>div#page>div#header>ul.navigation>li*4>a
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <div id="page">
+    <div id="header">
+      <ul class="navigation">
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
+<------------------code-------------->
+
+#menu>header>ul>li*5>a
+
+<div id="menu">
+  <header>
+    <ul>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+      <li><a href=""></a></li>
+    </ul>
+  </header>
+</div>
+
+<------------------code-------------->
+
+<------------------code-------------->
+
+<------------------code-------------->
+
+<------------------code-------------->
+
+<------------------code-------------->
+
+<------------------code-------------->
